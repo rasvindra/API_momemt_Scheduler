@@ -4,8 +4,17 @@
   border: 0;
 }
 
-.row {
+textarea {
+  border-left: 2px solid black;
 
+}
+
+.jumbotron {
+  text-align: center;
+  border-bottom: 5px solid black;
+}
+
+.row {
 height:80px;
 }
 
@@ -15,6 +24,11 @@ height:80px;
 
 .notes {
   white-space: pre-wrap;
+}
+
+.saveNote {
+border-left: 2px solid black;
+
 }
 
 .past {
