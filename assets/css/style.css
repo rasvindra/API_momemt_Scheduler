@@ -3,3 +3,31 @@
   margin:0;
   border: 0;
 }
+
+.row {
+
+height:80px;
+}
+
+.hour {
+    color: #000000;
+}
+
+.notes {
+  white-space: pre-wrap;
+}
+
+.past {
+  background-color: #ce9ceb;
+  color: white;
+}
+
+.present {
+  background-color: #be81f8;
+  color: rgb(0, 0, 0);
+}
+
+.future {
+  background-color: #9a66ca;
+  color: rgb(0, 0, 0);
+}
