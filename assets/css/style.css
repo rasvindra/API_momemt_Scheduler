@@ -12,6 +12,10 @@ textarea {
 
 } */
 
+.time-block{
+  border-radius: 10px;
+}
+
 .row {
 height:80px;
 }
@@ -26,6 +30,10 @@ height:80px;
 
 .saveNote {
 border-left: 2px solid black;
+border-top-right-radius: 15px;
+border-bottom-right-radius: 15px;
+background-color: #604cb9;
+color: white;
 
 }
 
