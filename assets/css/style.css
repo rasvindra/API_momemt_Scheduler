@@ -51,3 +51,8 @@ color: white;
   background-color: #9a66ca;
   color: rgb(0, 0, 0);
 }
+
+footer {
+  padding:30px;
+  text-align: center;
+}
