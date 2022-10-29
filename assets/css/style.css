@@ -5,19 +5,29 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  border-bottom: 5px solid black;
+  color: white;
+  /* border-bottom: 1px solid black; */
+  margin-bottom: 0;
+  border-radius: 0;
+  background-image: linear-gradient(rgb(104, 66, 228) 10%, rgb(39, 151, 243));
 }
 
-/* .allTimeslots {
-
-} */
+.allTimeslots {
+  background:rgb(39, 151, 243);
+}
 
 .time-block{
   border-radius: 10px;
 }
 
+.time-block:hover {
+  border: #ffffff 2px solid;
+  box-shadow:black 0 2px 4px 3px;
+}
+
 .row {
 height:80px;
+color: white;
 }
 
 .hour {
@@ -34,7 +44,13 @@ border-top-right-radius: 15px;
 border-bottom-right-radius: 15px;
 background-color: #604cb9;
 color: white;
+}
 
+.saveNote:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+  border: #ffffff 2px solid;
+  box-shadow:black 0 2px 4px 3px;
 }
 
 .past {
@@ -55,6 +71,8 @@ color: white;
 footer {
   padding:30px;
   text-align: center;
+  color: white;
+  background-image: linear-gradient(rgb(39, 151, 243), 65%, rgb(104, 66, 228));
 }
 
 footer img {
