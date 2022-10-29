@@ -56,3 +56,7 @@ footer {
   padding:30px;
   text-align: center;
 }
+
+footer img {
+  max-height: 75px;
+}
