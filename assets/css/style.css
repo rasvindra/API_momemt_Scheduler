@@ -6,15 +6,15 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  color: white;
+  color: bla;
   /* border-bottom: 1px solid black; */
   margin-bottom: 0;
   border-radius: 0;
-  background-image: linear-gradient(rgb(104, 66, 228) 10%, rgb(39, 151, 243));
+  background-image: linear-gradient(rgb(104, 66, 228) 10%, rgb(228, 206, 233));
 }
 
 .allTimeslots {
-  background:rgb(39, 151, 243);
+  background:rgb(228, 206, 233);
 }
 
 .time-block{
@@ -28,7 +28,7 @@ textarea {
 
 .row {
 height:80px;
-color: white;
+color: black;
 }
 
 .hour {
@@ -72,8 +72,8 @@ color: white;
 footer {
   padding:30px;
   text-align: center;
-  color: white;
-  background-image: linear-gradient(rgb(39, 151, 243), 65%, rgb(104, 66, 228));
+  color: black;
+  background-image: linear-gradient(rgb(228, 206, 233), 65%, rgb(104, 66, 228));
 }
 
 footer img {
