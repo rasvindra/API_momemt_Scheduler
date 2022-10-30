@@ -7,7 +7,6 @@ textarea {
 .jumbotron {
   text-align: center;
   color: bla;
-  /* border-bottom: 1px solid black; */
   margin-bottom: 0;
   border-radius: 0;
   background-image: linear-gradient(rgb(104, 66, 228) 10%, rgb(228, 206, 233));
@@ -29,6 +28,7 @@ textarea {
 .row {
 height:80px;
 color: black;
+
 }
 
 .hour {
