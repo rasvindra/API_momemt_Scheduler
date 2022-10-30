@@ -45,6 +45,7 @@ border-top-right-radius: 15px;
 border-bottom-right-radius: 15px;
 background-color: #604cb9;
 color: white;
+min-width:fit-content;
 }
 
 .saveNote:hover {
@@ -79,3 +80,9 @@ footer {
 footer img {
   max-height: 75px;
 }
+/* 
+@media only screen and (max-width: 995px) {
+  .hour {
+  font-size: smaller;
+  }
+} */
