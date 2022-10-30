@@ -28,11 +28,14 @@ textarea {
 .row {
 height:80px;
 color: black;
-
 }
 
 .hour {
     color: #000000;
+}
+
+.col-2 {
+  text-align: center;
 }
 
 .notes {
